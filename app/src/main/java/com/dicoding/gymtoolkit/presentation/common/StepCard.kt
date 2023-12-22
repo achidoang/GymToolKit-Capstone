@@ -49,12 +49,12 @@ fun StepCard(
             .clip(RoundedCornerShape(16.dp))
             .shadow(
                 elevation = 4.dp,
-                shape = RoundedCornerShape(16.dp)
+                shape = RoundedCornerShape(8.dp)
             )
             .border(
                 1.dp,
                 color = Color.Gray,
-                shape = RoundedCornerShape(16.dp)
+                shape = RoundedCornerShape(8.dp)
             ) // Tambahkan border di sini
     ) {
         Column(

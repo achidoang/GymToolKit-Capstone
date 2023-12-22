@@ -82,8 +82,6 @@ fun Navigator() {
             modifier = Modifier.padding(bottom = bottomPadding)
         ) {
             composable(route = Route.HomeScreen.route) {
-                val viewModel: HomeViewModel = hiltViewModel()
-                val articles = viewModel.news.collectAsLazyPagingItems()
                 HomeScreen(
 //                    articles = articles,
 //                    navigate = { navigateToTab(navController = navController, route = it) }

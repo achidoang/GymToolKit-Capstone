@@ -13,7 +13,7 @@ class AuthRepository @Inject constructor(
     private val authService: AuthService
 ) {
 
-//    suspend fun registerUser(registerRequestDto: RegisterRequest): Result<RegisterResponse> {
+    suspend fun registerUser(registerRequestDto: RegisterRequest): Result<RegisterResponse> {
 //        // Panggil API register dari AuthService
 //        return try {
 //            val response = authService.registerUser(registerRequestDto)
@@ -21,9 +21,10 @@ class AuthRepository @Inject constructor(
 //        } catch (e: Exception) {
 //            Result.Error("Registration failed: ${e.message}")
 //        }
-//    }
-//
-//    suspend fun loginUser(loginRequestDto: LoginRequest): Result<LoginResponse> {
+        return TODO("Provide the return value")
+    }
+
+    suspend fun loginUser(loginRequestDto: LoginRequest): Result<LoginResponse> {
 //        // Panggil API login dari AuthService
 //        return try {
 //            val response = authService.loginUser(loginRequestDto)
@@ -31,7 +32,8 @@ class AuthRepository @Inject constructor(
 //        } catch (e: Exception) {
 //            Result.Error("Login failed: ${e.message}")
 //        }
-//    }
+        return TODO("Provide the return value")
+    }
 
     // Tambahan fungsi-fungsi lain yang mungkin Anda perlukan
     // ...
