@@ -14,6 +14,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import com.dicoding.gymtoolkit.R
+import com.dicoding.gymtoolkit.domain.model.Tool
 import com.dicoding.gymtoolkit.presentation.Dimens
 import com.dicoding.gymtoolkit.presentation.Dimens.HighPadding3
 import com.dicoding.gymtoolkit.presentation.Dimens.MediumPadding1
@@ -24,7 +25,9 @@ import com.dicoding.gymtoolkit.presentation.common.HeadingTextComponent
 import com.dicoding.gymtoolkit.presentation.common.ToolsCard
 
 @Composable
-fun HomeScreen() {
+fun HomeScreen(
+    navigateToDetails: (Tool) -> Unit
+) {
     Column(
         modifier = Modifier
             .fillMaxSize()
@@ -35,12 +38,16 @@ fun HomeScreen() {
         Spacer(modifier = Modifier.height(MediumPadding1))
 
         // Memanggil HomeContent dengan implementasi navigasi
-        HomeContent()
+        HomeContent(
+            onClick = {navigateToDetails(it)}
+        )
     }
 }
 
 @Composable
-fun HomeContent(){
+fun HomeContent(
+    onClick: (Tool) -> Unit
+){
     LazyVerticalGrid(
         columns = GridCells.Fixed(2),
         contentPadding = PaddingValues(

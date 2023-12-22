@@ -19,12 +19,16 @@ import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import androidx.paging.compose.collectAsLazyPagingItems
 import com.dicoding.gymtoolkit.R
+import com.dicoding.gymtoolkit.domain.model.Article
+import com.dicoding.gymtoolkit.domain.model.Tool
 import com.dicoding.gymtoolkit.presentation.kamera.PermissionScreen
 import com.dicoding.gymtoolkit.presentation.home.HomeScreen
 import com.dicoding.gymtoolkit.presentation.home.HomeViewModel
+import com.dicoding.gymtoolkit.presentation.home.toolsGym
 import com.dicoding.gymtoolkit.presentation.navigation.components.BottomNavigation
 import com.dicoding.gymtoolkit.presentation.navigation.components.BottomNavigationItem
 import com.dicoding.gymtoolkit.presentation.nvgraph.Route
+import com.dicoding.gymtoolkit.presentation.profil.DetailScreen
 import com.dicoding.gymtoolkit.presentation.profil.ProfileScreen
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -51,29 +55,38 @@ fun Navigator() {
         else -> 0
     }
 
+    //Hide the bottom navigation when the user is in the details screen
+    val isBottomBarVisible = remember(key1 = backStackState) {
+        backStackState?.destination?.route == Route.HomeScreen.route ||
+                backStackState?.destination?.route == Route.CameraScreen.route ||
+                backStackState?.destination?.route == Route.ProfilScreen.route
+    }
+
     Scaffold(modifier = Modifier.fillMaxSize(), bottomBar = {
-        BottomNavigation(
-            items = bottomNavigationItems,
-            selectedItem = selectedItem,
-            onItemClick = { index ->
-                when (index) {
-                    0 -> navigateToTab(
-                        navController = navController,
-                        route = Route.HomeScreen.route
-                    )
+        if (isBottomBarVisible) {
+            BottomNavigation(
+                items = bottomNavigationItems,
+                selectedItem = selectedItem,
+                onItemClick = { index ->
+                    when (index) {
+                        0 -> navigateToTab(
+                            navController = navController,
+                            route = Route.HomeScreen.route
+                        )
 
-                    1 -> navigateToTab(
-                        navController = navController,
-                        route = Route.CameraScreen.route
-                    )
+                        1 -> navigateToTab(
+                            navController = navController,
+                            route = Route.CameraScreen.route
+                        )
 
-                    2 -> navigateToTab(
-                        navController = navController,
-                        route = Route.ProfilScreen.route
-                    )
+                        2 -> navigateToTab(
+                            navController = navController,
+                            route = Route.ProfilScreen.route
+                        )
+                    }
                 }
-            }
-        )
+            )
+        }
     }) {
         val bottomPadding = it.calculateBottomPadding()
         NavHost(
@@ -82,19 +95,30 @@ fun Navigator() {
             modifier = Modifier.padding(bottom = bottomPadding)
         ) {
             composable(route = Route.HomeScreen.route) {
+                val viewModel: HomeViewModel = hiltViewModel()
+                val tools = viewModel.tools.collectAsLazyPagingItems()
                 HomeScreen(
-//                    articles = articles,
-//                    navigate = { navigateToTab(navController = navController, route = it) }
+                    navigateToDetails = {
+                        navigateToDetails(
+                            navController = navController
+                        )
+                    }
                 )
+
             }
             composable(route = Route.CameraScreen.route) {
                 PermissionScreen()
             }
             composable(route = Route.DetailScreen.route) {
+                DetailScreen()
 
             }
             composable(route = Route.ProfilScreen.route) {
-                ProfileScreen()
+                ProfileScreen(
+                    userId = "123456",
+                    username = "john_doe",
+                    email = "john.doe@example.com"
+                )
 
             }
         }
@@ -111,4 +135,11 @@ private fun navigateToTab(navController: NavController, route: String) {
         launchSingleTop = true
         restoreState = true
     }
+}
+
+private fun navigateToDetails(navController: NavController) {
+    navController.currentBackStackEntry?.savedStateHandle?.set("tools", toolsGym)
+    navController.navigate(
+        route = Route.DetailScreen.route
+    )
 }
