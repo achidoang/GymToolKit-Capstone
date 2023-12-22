@@ -58,10 +58,12 @@ fun DetailScreen() {
 
                 Spacer(modifier = Modifier.height(MediumPadding1))
 
+                // konten
                 StepCard(
                     step = Step(
                         tools_name = "",
                         video_url = "",
+                        number_tools = "1",
                         step_headline = "Regangkann tangan Anda",
                         tools_step = "Regangkanlah tangan anda hingga ke perut Regangkanlah tangan anda hingga ke perut Regangkanlah tangan anda hingga ke perut tangan anda hingga ke perut",
                         image_url = ""

@@ -44,6 +44,7 @@ fun AppButton(
     }
 }
 
+
 @Composable
 fun AppTextButton(
     text: String,
@@ -67,7 +68,7 @@ fun AppTextButton(
 fun ButtonComponent(value: String) {
     Spacer(modifier = Modifier.height(MediumPadding1))
     Button(
-        onClick = { },
+        onClick = {  },
         modifier = Modifier
             .fillMaxWidth()
             .heightIn(MediumPadding4),

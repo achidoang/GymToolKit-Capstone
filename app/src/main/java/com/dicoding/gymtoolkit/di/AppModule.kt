@@ -2,15 +2,12 @@ package com.dicoding.gymtoolkit.di
 
 import android.app.Application
 import com.dicoding.gymtoolkit.data.manager.LocalUserManagerImpl
-import com.dicoding.gymtoolkit.data.remote.NewsApi
-import com.dicoding.gymtoolkit.data.repository.NewsRepositoryImpl
+import com.dicoding.gymtoolkit.data.remote.service.AuthService
 import com.dicoding.gymtoolkit.domain.manager.LocalUserManager
-import com.dicoding.gymtoolkit.domain.repository.NewsRepository
+import com.dicoding.gymtoolkit.domain.usecases.RegisterUserUseCase
 import com.dicoding.gymtoolkit.domain.usecases.app_entry.AppEntryUseCases
 import com.dicoding.gymtoolkit.domain.usecases.app_entry.ReadAppEntry
 import com.dicoding.gymtoolkit.domain.usecases.app_entry.SaveAppEntry
-import com.dicoding.gymtoolkit.domain.usecases.news.GetNews
-import com.dicoding.gymtoolkit.domain.usecases.news.NewsUseCases
 import com.dicoding.gymtoolkit.util.Constants.BASE_URL
 import dagger.Module
 import dagger.Provides
@@ -41,31 +38,26 @@ object AppModule {
         saveAppEntry = SaveAppEntry(localUserManager)
     )
 
+    // Menambahkan Dependensi Retrofit di AppModule
     @Provides
     @Singleton
-    fun provideNewsApi(): NewsApi{
+    fun provideRetrofit(): Retrofit {
         return Retrofit.Builder()
             .baseUrl(BASE_URL)
             .addConverterFactory(GsonConverterFactory.create())
             .build()
-            .create(NewsApi::class.java)
     }
 
     @Provides
     @Singleton
-    fun provideNewsRepository(
-        newsApi: NewsApi
-    ): NewsRepository {
-        return NewsRepositoryImpl(newsApi)
+    fun provideAuthService(retrofit: Retrofit): AuthService {
+        return retrofit.create(AuthService::class.java)
     }
 
     @Provides
     @Singleton
-    fun provideNewsUseCases(
-        newsRepository: NewsRepository
-    ): NewsUseCases{
-        return NewsUseCases(
-            getNews = GetNews(newsRepository)
-        )
+    fun provideRegisterUserUseCase(registerUserUseCase: RegisterUserUseCase): RegisterUserUseCase {
+        return registerUserUseCase
     }
+
 }

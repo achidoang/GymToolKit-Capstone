@@ -17,6 +17,8 @@ object Dimens {
     val HighPadding3 = 70.dp
 
 
+
+
     val Ketebalan1 = 1.dp
     val Ketebalan2 = 2.dp
 
@@ -28,7 +30,7 @@ object Dimens {
     val PageIndicatorWidth = 52.dp
 
     val ArticleCardSize = 96.dp
-    val StepCardSize = 50.dp
+    val StepCardSize = 90.dp
 
     val LebarPratinjau = 350.dp
     val PanjangPratinjau = 450.dp

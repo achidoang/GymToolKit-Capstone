@@ -99,7 +99,8 @@ fun NormalLeftTextComponent(value: String) {
         modifier = Modifier
             .fillMaxWidth()
             .heightIn(min = MediumPadding3)
-            .padding(start = ExtraSmallPadding2),
+            .padding(start = ExtraSmallPadding2)
+            .padding(bottom = ExtraSmallPadding2),
         style = TextStyle(
             fontSize = FontSmall1,
             fontWeight = FontWeight.Normal,
@@ -108,7 +109,7 @@ fun NormalLeftTextComponent(value: String) {
         color = colorResource(id = R.color.text_medium),
         textAlign = TextAlign.Left,
         maxLines = 3,
-        overflow = TextOverflow.Ellipsis
+//        overflow = TextOverflow.Ellipsis
     )
 }
 
@@ -137,7 +138,8 @@ fun HeadingLeftTextComponent(value: String) {
         modifier = Modifier
             .fillMaxWidth()
             .heightIn()
-            .padding(start = ExtraSmallPadding2),
+            .padding(start = ExtraSmallPadding2)
+            .padding(top = ExtraSmallPadding2),
         style = TextStyle(
             fontSize = FontSmall2,
             fontWeight = FontWeight.Bold,
