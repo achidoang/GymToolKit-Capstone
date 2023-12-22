@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178211855131",
+    "project_id": "gymtoolkit-de949",
+    "storage_bucket": "gymtoolkit-de949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178211855131:android:567ee79697191449e3d1be",
+        "android_client_info": {
+          "package_name": "com.dicoding.gymtoolkit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApvCUa7ppMB33c5MZRa-DCXtKNwAFrZUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

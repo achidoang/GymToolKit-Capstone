@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dicoding.gymtoolkit.app-mergeDebugResources-2:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\Kuliah\\Bangkit\\apps\\submission fundamental\\Github_User\\caches\\transforms-3\\d8c421660ed2e24cfd2f292fd658a0dc\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

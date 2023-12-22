@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/font_inter_medium.ttf.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/font/inter_medium.ttf"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_onboarding4.png.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/onboarding4.png"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/font_roboto_bold.ttf.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/font/roboto_bold.ttf"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/xml_backup_rules.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_logo2.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_logo2.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_network.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_network.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_network_error.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_network_error.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/font_roboto_regular.ttf.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/font/roboto_regular.ttf"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_logo.png.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/logo.png"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_splash.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_splash.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_home.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_shape.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/shape.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_preferences.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_preferences.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_logo2.png.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/logo2.png"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_image.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_image.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_back_arrow.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_back_arrow.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/font_poppins_regular.ttf.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_profil.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_profil.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/font_rubik_bold.ttf.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/font/rubik_bold.ttf"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_time.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_time.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/font_poppins_bold.ttf.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable-night_ic_splash.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable-night/ic_splash.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_logo.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_bookmark.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_bookmark.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_onboarding5.png.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/onboarding5.png"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_logoku.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/logoku.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_close.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_email.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_camera.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_search_document.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_search_document.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/font_poppins_semibold.ttf.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/font/poppins_semibold.ttf"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/xml_path_provider.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/xml/path_provider.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_onboarding6.png.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/onboarding6.png"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_lock.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_tools1.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/tools1.xml"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/font_roboto_medium.ttf.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/font/roboto_medium.ttf"
+    },
+    {
+        "merged": "com.dicoding.gymtoolkit.app-merged_res-4:/drawable_ic_search.xml.flat",
+        "source": "com.dicoding.gymtoolkit.app-main-6:/drawable/ic_search.xml"
+    }
+]

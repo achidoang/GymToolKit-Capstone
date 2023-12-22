@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dicoding.gymtoolkit.app-mergeDebugResources-2:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "D:\\Kuliah\\Bangkit\\apps\\submission fundamental\\Github_User\\caches\\transforms-3\\72dd6b52dfc1d5d232a1fa231bd29e0a\\transformed\\core-splashscreen-1.0.1\\res\\values-v29\\values-v29.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,374",
+                        "endLines": "6,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "369,464"
+                    }
+                }
+            ]
+        }
+    ]
+}

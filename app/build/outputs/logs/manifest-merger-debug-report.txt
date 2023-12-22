@@ -1,0 +1,851 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:33:9-42:20
+	android:grantUriPermissions
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:37:13-47
+	android:authorities
+		INJECTED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:34:13-60
+	android:exported
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:35:13-62
+manifest
+ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:2:1-52:12
+MERGED from [com.google.accompanist:accompanist-permissions:0.32.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\aceedfea35a110ca8f353633b62a3c03\transformed\accompanist-permissions-0.32.0\AndroidManifest.xml:17:1-23:12
+MERGED from [io.coil-kt:coil-compose:2.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\8e2006169f0027812511156f0a3399e7\transformed\coil-compose-2.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.31.4-beta] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\aee114f98650ed1a6e3f5eb58dc253d5\transformed\accompanist-systemuicontroller-0.31.4-beta\AndroidManifest.xml:17:1-25:12
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:chromecast-sender:0.28] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\d13a04cc56d4f43b2723ad5c36de0197\transformed\chromecast-sender-0.28\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4862790f7e74a7152d64891425e79154\transformed\coil-compose-base-2.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil:2.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\73c4a816d45aba727fce491626daef07\transformed\coil-2.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-ktx:2.5.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1b87ca32ec895cb2ad94d71050af712b\transformed\room-ktx-2.5.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.5.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\dd03c5659ef14f0677708bd9863c8999\transformed\room-runtime-2.5.2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\e334e0bbf2adbeb320768cf6076f0495\transformed\core-12.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.30.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\cda250955c5ad7e8646c719feded9430\transformed\accompanist-drawablepainter-0.30.1\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.compose.material3:material3:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\17adae4d4960c8b759d5f54d9760b916\transformed\material3-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\01a97bcba694fbbb9f0024d772dde267\transformed\hilt-navigation-compose-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\d12e7ecd8cc9eca463a779316abf3b2c\transformed\hilt-navigation-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.45] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\81a12f83bc31caf6219b5e55c3820301\transformed\hilt-android-2.45\AndroidManifest.xml:16:1-19:12
+MERGED from [com.github.bumptech.glide:glide:4.13.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\eb99bd46931cf360c5ebc560d66ab34e\transformed\glide-4.13.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:17:1-73:12
+MERGED from [io.github.vejei.viewpagerindicator:viewpagerindicator:1.0.0-alpha.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\ccb2e1a90c73f5bb573637ea95d059d4\transformed\viewpagerindicator-1.0.0-alpha.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-common:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\d5a29c4b4b2b9003fdc73fd563fd7dc2\transformed\navigation-common-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\b3f828c96e5d5f54f8129c71c89e6e1e\transformed\navigation-common-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\ee50bfa7d274bfa5ad6b97c3055c735e\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\766863c271089af512d8ba2c58b66076\transformed\navigation-runtime-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\a744deef840e5ad6700a9ed06934aa1f\transformed\navigation-fragment-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-compose:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\618db9b201f0b0eaadc332dfc1de5dc2\transformed\navigation-compose-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\6953e86f2b75e63ef3c034d010858661\transformed\navigation-fragment-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2e15444f021313830d163a55b1a70037\transformed\navigation-ui-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4a3874ba20db735b5d84853d1d1e5d36\transformed\navigation-ui-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.4.0-beta01] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\b99e1bc3c4410b669318cafeec2915b4\transformed\material-1.4.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\02c3814bf22010cb8f1147517d0ef3ff\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\889b3c2bc0f59aa449e15e0ce594f532\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\cf6244dd81ffef466879330107b034c2\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\9b0053e57218414961c4ab5dcb124d63\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2a18d657e06226d7c97e1f2440d36fb8\transformed\firebase-common-20.1.0\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:2:1-30:12
+MERGED from [com.google.android.gms:play-services-cast:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\5294f7ba9fb764d84aa2c6a82d07066a\transformed\play-services-cast-21.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:18.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\51ca7d45d2c77863bc7b4a61b2a544ad\transformed\play-services-flags-18.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1a2fd09d2619fc0d9bdadb90c6e66ddc\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7d0b6c48a1f616e407a88f58f85c4f4d\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\a51134550f36a3661d335a5fc08b51ba\transformed\datastore-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.paging:paging-runtime:3.2.0-rc01] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\73ea743f37574f811c1ff1054e4dfbb6\transformed\paging-runtime-3.2.0-rc01\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.paging:paging-compose:3.2.0-rc01] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\74c37f41446366314eaed163fefe0501\transformed\paging-compose-3.2.0-rc01\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\31079c3e63732d7ba18137ebeee91644\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\a807ac47fe7e5b3b9b2720c28979d6bd\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.mediarouter:mediarouter:1.3.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\9613849e285f44d58f0ec51d30f7a8e8\transformed\mediarouter-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.palette:palette:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\d3b9f3a0d1ee25266cf1be9d76f95b9c\transformed\palette-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2fd0dc821542686883c259e685c848ea\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\96385d468c3e03e5ebda9d38dfc0575f\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [br.com.simplepass:loading-button-android:2.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3206fe2757c04b3015e6b7fa85fa0d75\transformed\loading-button-android-2.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2cffe7f3c4ce8311ea49de73154644c5\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [io.coil-kt:coil-base:2.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\98a6040fea4b81a94fd44fd83da5ad43\transformed\coil-base-2.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\15685cc67915f13f5a48b84110ce93fc\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\d8c421660ed2e24cfd2f292fd658a0dc\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\8c1cab5a312e4c18b44683879142d05b\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\b9af729aa2f79d7232e9a84f6d5f1a6f\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\0f2e9d7ed6788c80d7717e4fc2e1ca10\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\aa97e9c2faa322f6a175448dbb1b47e6\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\08f9d54ca48595820ed99ca14cae8974\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3525770481819204d0dd192c9c78deef\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2e4eea45411f1f9b6eb3b3d5139aa1d1\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\5efd43268af532e6da7bd0926ec2459d\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7b12ef1e61afe68eedbd4ed8a0f8e7bb\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\63abab8f7569deeb75457762ee040821\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\96bff13f796f510efc24ffadcefbb4c0\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\0408ae094e34e9279bc9f327022e0908\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\5e9c4ff1cfe68eac14efd114ccb58498\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\87be95d99348dafa5df430141e5e88cb\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\9e29fb04afab496469e9df55d347c6be\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\e0c672c3dc8cb24f9779e0124493942d\transformed\material-icons-extended-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3c57b32cb7d2422af137c637fbdbb8db\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7f603b7df6dd5744dc754a5e82c49e31\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3d4081f474d7c5be596d33c57866ce20\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7b33bd387676078e8a013a881d3883db\transformed\emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c0cab4abbf0fc125add168ffcf0b1fab\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\aec5284de195a978fbf29539f87bce69\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7de73be2a846ea418b82544ef4f53ff6\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7833e6adca56a3243608e34c2726f1ed\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\ae71536b47cbc909859221e8f756c9fe\transformed\lifecycle-viewmodel-compose-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\8c31a9a1907b4ba48085b5364f8286fe\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1f724ba5b5aeda8c7631153f4616d65a\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\55fe94a4eb99880593a5f765d1e2c5e2\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\d4b09640a9748b8cc41a99d9f2874dc3\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\e800df079f1dec74d8e268acc7d71973\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\bcdfb399a7ec2efdbd892c4d13830091\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\529e6722fee3d0981c3e204f87f9da13\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3e11ef3f44958078063f4baae85a0830\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\11d9c1dec5f6427a4674bb26394c840c\transformed\play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\479e75cf3c5736abcd675c6727752d99\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\e7a8cabbc92a69682f47d816ca4320e8\transformed\activity-1.8.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4f48d71406ed33d07f5b49b305026efe\transformed\activity-ktx-1.8.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.8.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3cfaceb590139b02a28de7cbe41cf33d\transformed\activity-compose-1.8.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\0aee1d42a1021db165538191aa9c779c\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\84450a52d98ff13d5c4aae195ce46e39\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\60e23865bdf934c342f45583c81ac608\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\f038de5ab76f33dabfa6b37fc9ed70b8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2514eadbfbac83b777cb4857db1b3462\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4d0b5f03a6da627fd928d5638d95d231\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\bc31eef5a3c6b9ec2777c2a6b9d057f8\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4fe6655e51ec649b5c5209501d0fa0a0\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.6.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4a3d5820d7d333970a1db31abd3c2353\transformed\media-1.6.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\bd7f8eff0e34e11d40b8efdcfd88caa2\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\801b3a28f3412d6849b4d6cf08fc621d\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\f10237079efcc1b07cd83d590a7a2ea8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\90cbbebf56259d2412b97a557b86aa44\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\02d8721683c3843631e64548fe7afbf0\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7fea96b6140c0ee72257e583cce8956a\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\517559ae8dfb5288f527e53e887f92ec\transformed\core-ktx-1.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7179d9222085279d1a029bc73a01955f\transformed\core-1.10.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\95b0e489f3162326c6aab713fe4a6a63\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\adb5852f5124a63e8fe8b6ed9c546a21\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c09c0b83f3d45f05f275d3bf13b4b976\transformed\circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core-splashscreen:1.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\72dd6b52dfc1d5d232a1fa231bd29e0a\transformed\core-splashscreen-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\b05ee6f96390c632432556a64ae321d6\transformed\sqlite-framework-2.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\bb3bc940dd7c518ec813f827c592dee1\transformed\sqlite-2.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\a3f3846e3f4ca865b685cc69c4792b4a\transformed\napier-debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1dc5b0e42e8f152b6de1be69e6608f14\transformed\gifdecoder-4.13.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c1849737b4f1cf6ff3545bdb2351dda1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\9a546e9185adf58885cab7d0f74e2f97\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\de5b8cc42a7eed02a16142ab6a231fb4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c7489dbcdf1a02ad164186ae1dd4d9af\transformed\firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\059620481eb11f7875a4772b139e5dca\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4ddaf0359cf3f6ed2cc6357d298fc4d9\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\de1ecdf09cd08e544e9e451b409c9d67\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\756c1d08c86902ca089620075c21cf66\transformed\transport-runtime-3.1.3\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\24913620f82b034bff18bac1b1f9d585\transformed\transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\020bbe466effc6878bc570a1a2b68204\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\86d10f81738cf11bbeb1f4abebc95a8d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3f7fb4c4637dea2e485364ccbd6bf20a\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\efb3a6f86a617a0c14131a171446d808\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\6aeb89f32b59264e79af9db95e4bf4e4\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c84d55aad6463a6e74f822cbf6dc512d\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\16014eb7491c2a494324f8a99ef2d6d2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\f2e137b9f12f4d5f4ec70d246551077b\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.45] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c9daf72f60a18507ca0dba33c504a9ee\transformed\dagger-lint-aar-2.45\AndroidManifest.xml:16:1-19:12
+	package
+		INJECTED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:6:5-8:36
+	android:required
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:8:9-33
+	android:name
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:7:9-47
+application
+ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:10:5-44:19
+INJECTED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:10:5-44:19
+MERGED from [androidx.room:room-runtime:2.5.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\dd03c5659ef14f0677708bd9863c8999\transformed\room-runtime-2.5.2\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\dd03c5659ef14f0677708bd9863c8999\transformed\room-runtime-2.5.2\AndroidManifest.xml:23:5-29:19
+MERGED from [com.github.bumptech.glide:glide:4.13.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\eb99bd46931cf360c5ebc560d66ab34e\transformed\glide-4.13.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\eb99bd46931cf360c5ebc560d66ab34e\transformed\glide-4.13.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.android.material:material:1.4.0-beta01] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\b99e1bc3c4410b669318cafeec2915b4\transformed\material-1.4.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0-beta01] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\b99e1bc3c4410b669318cafeec2915b4\transformed\material-1.4.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\cf6244dd81ffef466879330107b034c2\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\cf6244dd81ffef466879330107b034c2\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\9b0053e57218414961c4ab5dcb124d63\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\9b0053e57218414961c4ab5dcb124d63\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2a18d657e06226d7c97e1f2440d36fb8\transformed\firebase-common-20.1.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2a18d657e06226d7c97e1f2440d36fb8\transformed\firebase-common-20.1.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:16:5-28:19
+MERGED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:16:5-28:19
+MERGED from [com.google.android.gms:play-services-cast:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\5294f7ba9fb764d84aa2c6a82d07066a\transformed\play-services-cast-21.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\5294f7ba9fb764d84aa2c6a82d07066a\transformed\play-services-cast-21.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1a2fd09d2619fc0d9bdadb90c6e66ddc\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1a2fd09d2619fc0d9bdadb90c6e66ddc\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2cffe7f3c4ce8311ea49de73154644c5\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2cffe7f3c4ce8311ea49de73154644c5\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\63abab8f7569deeb75457762ee040821\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\63abab8f7569deeb75457762ee040821\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\5e9c4ff1cfe68eac14efd114ccb58498\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\5e9c4ff1cfe68eac14efd114ccb58498\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7b33bd387676078e8a013a881d3883db\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7b33bd387676078e8a013a881d3883db\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c0cab4abbf0fc125add168ffcf0b1fab\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c0cab4abbf0fc125add168ffcf0b1fab\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3e11ef3f44958078063f4baae85a0830\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3e11ef3f44958078063f4baae85a0830\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\11d9c1dec5f6427a4674bb26394c840c\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\11d9c1dec5f6427a4674bb26394c840c\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.window:window:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\801b3a28f3412d6849b4d6cf08fc621d\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\801b3a28f3412d6849b4d6cf08fc621d\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7179d9222085279d1a029bc73a01955f\transformed\core-1.10.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7179d9222085279d1a029bc73a01955f\transformed\core-1.10.0\AndroidManifest.xml:28:5-89
+MERGED from [de.hdodenhof:circleimageview:3.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c09c0b83f3d45f05f275d3bf13b4b976\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c09c0b83f3d45f05f275d3bf13b4b976\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1dc5b0e42e8f152b6de1be69e6608f14\transformed\gifdecoder-4.13.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1dc5b0e42e8f152b6de1be69e6608f14\transformed\gifdecoder-4.13.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c1849737b4f1cf6ff3545bdb2351dda1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c1849737b4f1cf6ff3545bdb2351dda1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\de1ecdf09cd08e544e9e451b409c9d67\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\de1ecdf09cd08e544e9e451b409c9d67\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\756c1d08c86902ca089620075c21cf66\transformed\transport-runtime-3.1.3\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\756c1d08c86902ca089620075c21cf66\transformed\transport-runtime-3.1.3\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\86d10f81738cf11bbeb1f4abebc95a8d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\86d10f81738cf11bbeb1f4abebc95a8d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7179d9222085279d1a029bc73a01955f\transformed\core-1.10.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:16:9-41
+	android:fullBackupContent
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:14:9-54
+	android:roundIcon
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:17:9-54
+	tools:targetApi
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:20:9-29
+	android:icon
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:19:9-50
+	android:dataExtractionRules
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:13:9-65
+	android:name
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:11:9-39
+activity#com.dicoding.gymtoolkit.MainActivity
+ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:21:9-31:20
+	android:label
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:24:13-45
+	android:exported
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:23:13-36
+	android:theme
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:25:13-54
+	android:name
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:29:27-74
+queries
+ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:46:5-50:15
+MERGED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:12:5-14:15
+MERGED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:12:5-14:15
+intent#action:name:android.intent.action.SEND
+ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:47:9-49:18
+action#android.intent.action.SEND
+ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:48:13-64
+	android:name
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:48:21-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:39:13-41:57
+	android:resource
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:41:17-54
+	android:name
+		ADDED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml:40:17-67
+uses-sdk
+INJECTED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml
+INJECTED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml
+MERGED from [com.google.accompanist:accompanist-permissions:0.32.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\aceedfea35a110ca8f353633b62a3c03\transformed\accompanist-permissions-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-permissions:0.32.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\aceedfea35a110ca8f353633b62a3c03\transformed\accompanist-permissions-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [io.coil-kt:coil-compose:2.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\8e2006169f0027812511156f0a3399e7\transformed\coil-compose-2.4.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\8e2006169f0027812511156f0a3399e7\transformed\coil-compose-2.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.31.4-beta] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\aee114f98650ed1a6e3f5eb58dc253d5\transformed\accompanist-systemuicontroller-0.31.4-beta\AndroidManifest.xml:21:5-23:42
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.31.4-beta] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\aee114f98650ed1a6e3f5eb58dc253d5\transformed\accompanist-systemuicontroller-0.31.4-beta\AndroidManifest.xml:21:5-23:42
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:chromecast-sender:0.28] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\d13a04cc56d4f43b2723ad5c36de0197\transformed\chromecast-sender-0.28\AndroidManifest.xml:5:5-44
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:chromecast-sender:0.28] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\d13a04cc56d4f43b2723ad5c36de0197\transformed\chromecast-sender-0.28\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4862790f7e74a7152d64891425e79154\transformed\coil-compose-base-2.4.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4862790f7e74a7152d64891425e79154\transformed\coil-compose-base-2.4.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\73c4a816d45aba727fce491626daef07\transformed\coil-2.4.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\73c4a816d45aba727fce491626daef07\transformed\coil-2.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-ktx:2.5.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1b87ca32ec895cb2ad94d71050af712b\transformed\room-ktx-2.5.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.5.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1b87ca32ec895cb2ad94d71050af712b\transformed\room-ktx-2.5.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.5.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\dd03c5659ef14f0677708bd9863c8999\transformed\room-runtime-2.5.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\dd03c5659ef14f0677708bd9863c8999\transformed\room-runtime-2.5.2\AndroidManifest.xml:21:5-44
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\e334e0bbf2adbeb320768cf6076f0495\transformed\core-12.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\e334e0bbf2adbeb320768cf6076f0495\transformed\core-12.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.30.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\cda250955c5ad7e8646c719feded9430\transformed\accompanist-drawablepainter-0.30.1\AndroidManifest.xml:21:5-23:42
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.30.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\cda250955c5ad7e8646c719feded9430\transformed\accompanist-drawablepainter-0.30.1\AndroidManifest.xml:21:5-23:42
+MERGED from [androidx.compose.material3:material3:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\17adae4d4960c8b759d5f54d9760b916\transformed\material3-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\17adae4d4960c8b759d5f54d9760b916\transformed\material3-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\01a97bcba694fbbb9f0024d772dde267\transformed\hilt-navigation-compose-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\01a97bcba694fbbb9f0024d772dde267\transformed\hilt-navigation-compose-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\d12e7ecd8cc9eca463a779316abf3b2c\transformed\hilt-navigation-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\d12e7ecd8cc9eca463a779316abf3b2c\transformed\hilt-navigation-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.45] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\81a12f83bc31caf6219b5e55c3820301\transformed\hilt-android-2.45\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.45] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\81a12f83bc31caf6219b5e55c3820301\transformed\hilt-android-2.45\AndroidManifest.xml:18:3-42
+MERGED from [com.github.bumptech.glide:glide:4.13.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\eb99bd46931cf360c5ebc560d66ab34e\transformed\glide-4.13.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.13.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\eb99bd46931cf360c5ebc560d66ab34e\transformed\glide-4.13.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:21:5-44
+MERGED from [io.github.vejei.viewpagerindicator:viewpagerindicator:1.0.0-alpha.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\ccb2e1a90c73f5bb573637ea95d059d4\transformed\viewpagerindicator-1.0.0-alpha.1\AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.vejei.viewpagerindicator:viewpagerindicator:1.0.0-alpha.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\ccb2e1a90c73f5bb573637ea95d059d4\transformed\viewpagerindicator-1.0.0-alpha.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.navigation:navigation-common:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\d5a29c4b4b2b9003fdc73fd563fd7dc2\transformed\navigation-common-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\d5a29c4b4b2b9003fdc73fd563fd7dc2\transformed\navigation-common-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\b3f828c96e5d5f54f8129c71c89e6e1e\transformed\navigation-common-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\b3f828c96e5d5f54f8129c71c89e6e1e\transformed\navigation-common-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\ee50bfa7d274bfa5ad6b97c3055c735e\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\ee50bfa7d274bfa5ad6b97c3055c735e\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\766863c271089af512d8ba2c58b66076\transformed\navigation-runtime-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\766863c271089af512d8ba2c58b66076\transformed\navigation-runtime-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\a744deef840e5ad6700a9ed06934aa1f\transformed\navigation-fragment-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\a744deef840e5ad6700a9ed06934aa1f\transformed\navigation-fragment-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\618db9b201f0b0eaadc332dfc1de5dc2\transformed\navigation-compose-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\618db9b201f0b0eaadc332dfc1de5dc2\transformed\navigation-compose-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\6953e86f2b75e63ef3c034d010858661\transformed\navigation-fragment-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\6953e86f2b75e63ef3c034d010858661\transformed\navigation-fragment-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2e15444f021313830d163a55b1a70037\transformed\navigation-ui-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2e15444f021313830d163a55b1a70037\transformed\navigation-ui-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4a3874ba20db735b5d84853d1d1e5d36\transformed\navigation-ui-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.5] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4a3874ba20db735b5d84853d1d1e5d36\transformed\navigation-ui-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0-beta01] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\b99e1bc3c4410b669318cafeec2915b4\transformed\material-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0-beta01] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\b99e1bc3c4410b669318cafeec2915b4\transformed\material-1.4.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\02c3814bf22010cb8f1147517d0ef3ff\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\02c3814bf22010cb8f1147517d0ef3ff\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\889b3c2bc0f59aa449e15e0ce594f532\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\889b3c2bc0f59aa449e15e0ce594f532\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\cf6244dd81ffef466879330107b034c2\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\cf6244dd81ffef466879330107b034c2\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\9b0053e57218414961c4ab5dcb124d63\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\9b0053e57218414961c4ab5dcb124d63\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2a18d657e06226d7c97e1f2440d36fb8\transformed\firebase-common-20.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2a18d657e06226d7c97e1f2440d36fb8\transformed\firebase-common-20.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-cast:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\5294f7ba9fb764d84aa2c6a82d07066a\transformed\play-services-cast-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\5294f7ba9fb764d84aa2c6a82d07066a\transformed\play-services-cast-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:18.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\51ca7d45d2c77863bc7b4a61b2a544ad\transformed\play-services-flags-18.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:18.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\51ca7d45d2c77863bc7b4a61b2a544ad\transformed\play-services-flags-18.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1a2fd09d2619fc0d9bdadb90c6e66ddc\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1a2fd09d2619fc0d9bdadb90c6e66ddc\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7d0b6c48a1f616e407a88f58f85c4f4d\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7d0b6c48a1f616e407a88f58f85c4f4d\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\a51134550f36a3661d335a5fc08b51ba\transformed\datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\a51134550f36a3661d335a5fc08b51ba\transformed\datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-runtime:3.2.0-rc01] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\73ea743f37574f811c1ff1054e4dfbb6\transformed\paging-runtime-3.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.paging:paging-runtime:3.2.0-rc01] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\73ea743f37574f811c1ff1054e4dfbb6\transformed\paging-runtime-3.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.paging:paging-compose:3.2.0-rc01] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\74c37f41446366314eaed163fefe0501\transformed\paging-compose-3.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.paging:paging-compose:3.2.0-rc01] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\74c37f41446366314eaed163fefe0501\transformed\paging-compose-3.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\31079c3e63732d7ba18137ebeee91644\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\31079c3e63732d7ba18137ebeee91644\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\a807ac47fe7e5b3b9b2720c28979d6bd\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\a807ac47fe7e5b3b9b2720c28979d6bd\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.3.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\9613849e285f44d58f0ec51d30f7a8e8\transformed\mediarouter-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.mediarouter:mediarouter:1.3.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\9613849e285f44d58f0ec51d30f7a8e8\transformed\mediarouter-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.palette:palette:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\d3b9f3a0d1ee25266cf1be9d76f95b9c\transformed\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\d3b9f3a0d1ee25266cf1be9d76f95b9c\transformed\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2fd0dc821542686883c259e685c848ea\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2fd0dc821542686883c259e685c848ea\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\96385d468c3e03e5ebda9d38dfc0575f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\96385d468c3e03e5ebda9d38dfc0575f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [br.com.simplepass:loading-button-android:2.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3206fe2757c04b3015e6b7fa85fa0d75\transformed\loading-button-android-2.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [br.com.simplepass:loading-button-android:2.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3206fe2757c04b3015e6b7fa85fa0d75\transformed\loading-button-android-2.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2cffe7f3c4ce8311ea49de73154644c5\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2cffe7f3c4ce8311ea49de73154644c5\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\98a6040fea4b81a94fd44fd83da5ad43\transformed\coil-base-2.4.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\98a6040fea4b81a94fd44fd83da5ad43\transformed\coil-base-2.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\15685cc67915f13f5a48b84110ce93fc\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\15685cc67915f13f5a48b84110ce93fc\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\d8c421660ed2e24cfd2f292fd658a0dc\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\d8c421660ed2e24cfd2f292fd658a0dc\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\8c1cab5a312e4c18b44683879142d05b\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\8c1cab5a312e4c18b44683879142d05b\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\b9af729aa2f79d7232e9a84f6d5f1a6f\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\b9af729aa2f79d7232e9a84f6d5f1a6f\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\0f2e9d7ed6788c80d7717e4fc2e1ca10\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\0f2e9d7ed6788c80d7717e4fc2e1ca10\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\aa97e9c2faa322f6a175448dbb1b47e6\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\aa97e9c2faa322f6a175448dbb1b47e6\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\08f9d54ca48595820ed99ca14cae8974\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\08f9d54ca48595820ed99ca14cae8974\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3525770481819204d0dd192c9c78deef\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3525770481819204d0dd192c9c78deef\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2e4eea45411f1f9b6eb3b3d5139aa1d1\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2e4eea45411f1f9b6eb3b3d5139aa1d1\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\5efd43268af532e6da7bd0926ec2459d\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\5efd43268af532e6da7bd0926ec2459d\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7b12ef1e61afe68eedbd4ed8a0f8e7bb\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7b12ef1e61afe68eedbd4ed8a0f8e7bb\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\63abab8f7569deeb75457762ee040821\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\63abab8f7569deeb75457762ee040821\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\96bff13f796f510efc24ffadcefbb4c0\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\96bff13f796f510efc24ffadcefbb4c0\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\0408ae094e34e9279bc9f327022e0908\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\0408ae094e34e9279bc9f327022e0908\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\5e9c4ff1cfe68eac14efd114ccb58498\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\5e9c4ff1cfe68eac14efd114ccb58498\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\87be95d99348dafa5df430141e5e88cb\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\87be95d99348dafa5df430141e5e88cb\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\9e29fb04afab496469e9df55d347c6be\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\9e29fb04afab496469e9df55d347c6be\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\e0c672c3dc8cb24f9779e0124493942d\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\e0c672c3dc8cb24f9779e0124493942d\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3c57b32cb7d2422af137c637fbdbb8db\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3c57b32cb7d2422af137c637fbdbb8db\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7f603b7df6dd5744dc754a5e82c49e31\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7f603b7df6dd5744dc754a5e82c49e31\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3d4081f474d7c5be596d33c57866ce20\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3d4081f474d7c5be596d33c57866ce20\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7b33bd387676078e8a013a881d3883db\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7b33bd387676078e8a013a881d3883db\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c0cab4abbf0fc125add168ffcf0b1fab\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c0cab4abbf0fc125add168ffcf0b1fab\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\aec5284de195a978fbf29539f87bce69\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\aec5284de195a978fbf29539f87bce69\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7de73be2a846ea418b82544ef4f53ff6\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7de73be2a846ea418b82544ef4f53ff6\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7833e6adca56a3243608e34c2726f1ed\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7833e6adca56a3243608e34c2726f1ed\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\ae71536b47cbc909859221e8f756c9fe\transformed\lifecycle-viewmodel-compose-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\ae71536b47cbc909859221e8f756c9fe\transformed\lifecycle-viewmodel-compose-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\8c31a9a1907b4ba48085b5364f8286fe\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\8c31a9a1907b4ba48085b5364f8286fe\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1f724ba5b5aeda8c7631153f4616d65a\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1f724ba5b5aeda8c7631153f4616d65a\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\55fe94a4eb99880593a5f765d1e2c5e2\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\55fe94a4eb99880593a5f765d1e2c5e2\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\d4b09640a9748b8cc41a99d9f2874dc3\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\d4b09640a9748b8cc41a99d9f2874dc3\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\e800df079f1dec74d8e268acc7d71973\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\e800df079f1dec74d8e268acc7d71973\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\bcdfb399a7ec2efdbd892c4d13830091\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\bcdfb399a7ec2efdbd892c4d13830091\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\529e6722fee3d0981c3e204f87f9da13\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\529e6722fee3d0981c3e204f87f9da13\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3e11ef3f44958078063f4baae85a0830\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3e11ef3f44958078063f4baae85a0830\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\11d9c1dec5f6427a4674bb26394c840c\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\11d9c1dec5f6427a4674bb26394c840c\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\479e75cf3c5736abcd675c6727752d99\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\479e75cf3c5736abcd675c6727752d99\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\e7a8cabbc92a69682f47d816ca4320e8\transformed\activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\e7a8cabbc92a69682f47d816ca4320e8\transformed\activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4f48d71406ed33d07f5b49b305026efe\transformed\activity-ktx-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4f48d71406ed33d07f5b49b305026efe\transformed\activity-ktx-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3cfaceb590139b02a28de7cbe41cf33d\transformed\activity-compose-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3cfaceb590139b02a28de7cbe41cf33d\transformed\activity-compose-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\0aee1d42a1021db165538191aa9c779c\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\0aee1d42a1021db165538191aa9c779c\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\84450a52d98ff13d5c4aae195ce46e39\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\84450a52d98ff13d5c4aae195ce46e39\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\60e23865bdf934c342f45583c81ac608\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\60e23865bdf934c342f45583c81ac608\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\f038de5ab76f33dabfa6b37fc9ed70b8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\f038de5ab76f33dabfa6b37fc9ed70b8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2514eadbfbac83b777cb4857db1b3462\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2514eadbfbac83b777cb4857db1b3462\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4d0b5f03a6da627fd928d5638d95d231\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4d0b5f03a6da627fd928d5638d95d231\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\bc31eef5a3c6b9ec2777c2a6b9d057f8\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\bc31eef5a3c6b9ec2777c2a6b9d057f8\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4fe6655e51ec649b5c5209501d0fa0a0\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4fe6655e51ec649b5c5209501d0fa0a0\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4a3d5820d7d333970a1db31abd3c2353\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4a3d5820d7d333970a1db31abd3c2353\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\bd7f8eff0e34e11d40b8efdcfd88caa2\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\bd7f8eff0e34e11d40b8efdcfd88caa2\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\801b3a28f3412d6849b4d6cf08fc621d\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\801b3a28f3412d6849b4d6cf08fc621d\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\f10237079efcc1b07cd83d590a7a2ea8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\f10237079efcc1b07cd83d590a7a2ea8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\90cbbebf56259d2412b97a557b86aa44\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\90cbbebf56259d2412b97a557b86aa44\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\02d8721683c3843631e64548fe7afbf0\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\02d8721683c3843631e64548fe7afbf0\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7fea96b6140c0ee72257e583cce8956a\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7fea96b6140c0ee72257e583cce8956a\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\517559ae8dfb5288f527e53e887f92ec\transformed\core-ktx-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\517559ae8dfb5288f527e53e887f92ec\transformed\core-ktx-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7179d9222085279d1a029bc73a01955f\transformed\core-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7179d9222085279d1a029bc73a01955f\transformed\core-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\95b0e489f3162326c6aab713fe4a6a63\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\95b0e489f3162326c6aab713fe4a6a63\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\adb5852f5124a63e8fe8b6ed9c546a21\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\adb5852f5124a63e8fe8b6ed9c546a21\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c09c0b83f3d45f05f275d3bf13b4b976\transformed\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c09c0b83f3d45f05f275d3bf13b4b976\transformed\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-splashscreen:1.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\72dd6b52dfc1d5d232a1fa231bd29e0a\transformed\core-splashscreen-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\72dd6b52dfc1d5d232a1fa231bd29e0a\transformed\core-splashscreen-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\b05ee6f96390c632432556a64ae321d6\transformed\sqlite-framework-2.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\b05ee6f96390c632432556a64ae321d6\transformed\sqlite-framework-2.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\bb3bc940dd7c518ec813f827c592dee1\transformed\sqlite-2.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\bb3bc940dd7c518ec813f827c592dee1\transformed\sqlite-2.3.1\AndroidManifest.xml:20:5-44
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\a3f3846e3f4ca865b685cc69c4792b4a\transformed\napier-debug\AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\a3f3846e3f4ca865b685cc69c4792b4a\transformed\napier-debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1dc5b0e42e8f152b6de1be69e6608f14\transformed\gifdecoder-4.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1dc5b0e42e8f152b6de1be69e6608f14\transformed\gifdecoder-4.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c1849737b4f1cf6ff3545bdb2351dda1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c1849737b4f1cf6ff3545bdb2351dda1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\9a546e9185adf58885cab7d0f74e2f97\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\9a546e9185adf58885cab7d0f74e2f97\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\de5b8cc42a7eed02a16142ab6a231fb4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\de5b8cc42a7eed02a16142ab6a231fb4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c7489dbcdf1a02ad164186ae1dd4d9af\transformed\firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c7489dbcdf1a02ad164186ae1dd4d9af\transformed\firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\059620481eb11f7875a4772b139e5dca\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\059620481eb11f7875a4772b139e5dca\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4ddaf0359cf3f6ed2cc6357d298fc4d9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4ddaf0359cf3f6ed2cc6357d298fc4d9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\de1ecdf09cd08e544e9e451b409c9d67\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\de1ecdf09cd08e544e9e451b409c9d67\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\756c1d08c86902ca089620075c21cf66\transformed\transport-runtime-3.1.3\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\756c1d08c86902ca089620075c21cf66\transformed\transport-runtime-3.1.3\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\24913620f82b034bff18bac1b1f9d585\transformed\transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\24913620f82b034bff18bac1b1f9d585\transformed\transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\020bbe466effc6878bc570a1a2b68204\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\020bbe466effc6878bc570a1a2b68204\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\86d10f81738cf11bbeb1f4abebc95a8d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\86d10f81738cf11bbeb1f4abebc95a8d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3f7fb4c4637dea2e485364ccbd6bf20a\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\3f7fb4c4637dea2e485364ccbd6bf20a\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\efb3a6f86a617a0c14131a171446d808\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\efb3a6f86a617a0c14131a171446d808\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\6aeb89f32b59264e79af9db95e4bf4e4\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\6aeb89f32b59264e79af9db95e4bf4e4\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c84d55aad6463a6e74f822cbf6dc512d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c84d55aad6463a6e74f822cbf6dc512d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\16014eb7491c2a494324f8a99ef2d6d2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\16014eb7491c2a494324f8a99ef2d6d2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\f2e137b9f12f4d5f4ec70d246551077b\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\f2e137b9f12f4d5f4ec70d246551077b\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.45] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c9daf72f60a18507ca0dba33c504a9ee\transformed\dagger-lint-aar-2.45\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.45] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c9daf72f60a18507ca0dba33c504a9ee\transformed\dagger-lint-aar-2.45\AndroidManifest.xml:18:3-42
+	android:targetSdkVersion
+		INJECTED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml
+	tools:ignore
+		ADDED from [com.google.accompanist:accompanist-systemuicontroller:0.31.4-beta] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\aee114f98650ed1a6e3f5eb58dc253d5\transformed\accompanist-systemuicontroller-0.31.4-beta\AndroidManifest.xml:23:9-39
+	android:minSdkVersion
+		INJECTED from D:\Kuliah\Bangkit\Capstone\CheckpointCamera\BangkitCapstone\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\dd03c5659ef14f0677708bd9863c8999\transformed\room-runtime-2.5.2\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\dd03c5659ef14f0677708bd9863c8999\transformed\room-runtime-2.5.2\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\dd03c5659ef14f0677708bd9863c8999\transformed\room-runtime-2.5.2\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\dd03c5659ef14f0677708bd9863c8999\transformed\room-runtime-2.5.2\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\dd03c5659ef14f0677708bd9863c8999\transformed\room-runtime-2.5.2\AndroidManifest.xml:25:13-74
+uses-permission#android.permission.INTERNET
+ADDED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\e334e0bbf2adbeb320768cf6076f0495\transformed\core-12.0.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\de1ecdf09cd08e544e9e451b409c9d67\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\de1ecdf09cd08e544e9e451b409c9d67\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\e334e0bbf2adbeb320768cf6076f0495\transformed\core-12.0.0\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\e334e0bbf2adbeb320768cf6076f0495\transformed\core-12.0.0\AndroidManifest.xml:8:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\de1ecdf09cd08e544e9e451b409c9d67\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\de1ecdf09cd08e544e9e451b409c9d67\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\756c1d08c86902ca089620075c21cf66\transformed\transport-runtime-3.1.3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\756c1d08c86902ca089620075c21cf66\transformed\transport-runtime-3.1.3\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\e334e0bbf2adbeb320768cf6076f0495\transformed\core-12.0.0\AndroidManifest.xml:8:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2a18d657e06226d7c97e1f2440d36fb8\transformed\firebase-common-20.1.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2a18d657e06226d7c97e1f2440d36fb8\transformed\firebase-common-20.1.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:66:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2a18d657e06226d7c97e1f2440d36fb8\transformed\firebase-common-20.1.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2a18d657e06226d7c97e1f2440d36fb8\transformed\firebase-common-20.1.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:65:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\4657c0477b6e8d6d33ba5c1aa6abf81a\transformed\firebase-auth-21.0.6\AndroidManifest.xml:68:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2a18d657e06226d7c97e1f2440d36fb8\transformed\firebase-common-20.1.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2a18d657e06226d7c97e1f2440d36fb8\transformed\firebase-common-20.1.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2a18d657e06226d7c97e1f2440d36fb8\transformed\firebase-common-20.1.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2a18d657e06226d7c97e1f2440d36fb8\transformed\firebase-common-20.1.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2a18d657e06226d7c97e1f2440d36fb8\transformed\firebase-common-20.1.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2a18d657e06226d7c97e1f2440d36fb8\transformed\firebase-common-20.1.0\AndroidManifest.xml:27:13-77
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:10:22-74
+package#com.google.android.gms.policy_cast_dynamite
+ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:13:9-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:13:18-76
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:18:13-91
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:21:9-24:61
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:23:13-37
+	android:foregroundServiceType
+		ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:24:13-58
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:22:13-96
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\2da610a9bdcc34eb943cb382bed0aafe\transformed\play-services-cast-framework-21.2.0\AndroidManifest.xml:26:13-85
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1a2fd09d2619fc0d9bdadb90c6e66ddc\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1a2fd09d2619fc0d9bdadb90c6e66ddc\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1a2fd09d2619fc0d9bdadb90c6e66ddc\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\1a2fd09d2619fc0d9bdadb90c6e66ddc\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\63abab8f7569deeb75457762ee040821\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\63abab8f7569deeb75457762ee040821\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\63abab8f7569deeb75457762ee040821\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\5e9c4ff1cfe68eac14efd114ccb58498\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\5e9c4ff1cfe68eac14efd114ccb58498\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\5e9c4ff1cfe68eac14efd114ccb58498\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7b33bd387676078e8a013a881d3883db\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c0cab4abbf0fc125add168ffcf0b1fab\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c0cab4abbf0fc125add168ffcf0b1fab\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c1849737b4f1cf6ff3545bdb2351dda1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c1849737b4f1cf6ff3545bdb2351dda1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7b33bd387676078e8a013a881d3883db\transformed\emoji2-1.4.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7b33bd387676078e8a013a881d3883db\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7b33bd387676078e8a013a881d3883db\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7b33bd387676078e8a013a881d3883db\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7b33bd387676078e8a013a881d3883db\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7b33bd387676078e8a013a881d3883db\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7b33bd387676078e8a013a881d3883db\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c0cab4abbf0fc125add168ffcf0b1fab\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c0cab4abbf0fc125add168ffcf0b1fab\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\c0cab4abbf0fc125add168ffcf0b1fab\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\11d9c1dec5f6427a4674bb26394c840c\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\11d9c1dec5f6427a4674bb26394c840c\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\11d9c1dec5f6427a4674bb26394c840c\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\801b3a28f3412d6849b4d6cf08fc621d\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\801b3a28f3412d6849b4d6cf08fc621d\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\801b3a28f3412d6849b4d6cf08fc621d\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\801b3a28f3412d6849b4d6cf08fc621d\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\801b3a28f3412d6849b4d6cf08fc621d\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\801b3a28f3412d6849b4d6cf08fc621d\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7179d9222085279d1a029bc73a01955f\transformed\core-1.10.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7179d9222085279d1a029bc73a01955f\transformed\core-1.10.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7179d9222085279d1a029bc73a01955f\transformed\core-1.10.0\AndroidManifest.xml:23:9-81
+permission#com.dicoding.gymtoolkit.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7179d9222085279d1a029bc73a01955f\transformed\core-1.10.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7179d9222085279d1a029bc73a01955f\transformed\core-1.10.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7179d9222085279d1a029bc73a01955f\transformed\core-1.10.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7179d9222085279d1a029bc73a01955f\transformed\core-1.10.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7179d9222085279d1a029bc73a01955f\transformed\core-1.10.0\AndroidManifest.xml:26:22-94
+uses-permission#com.dicoding.gymtoolkit.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7179d9222085279d1a029bc73a01955f\transformed\core-1.10.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.0] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\7179d9222085279d1a029bc73a01955f\transformed\core-1.10.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\fd95055108b626f368ed6bf48db971e5\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\de1ecdf09cd08e544e9e451b409c9d67\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\756c1d08c86902ca089620075c21cf66\transformed\transport-runtime-3.1.3\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\756c1d08c86902ca089620075c21cf66\transformed\transport-runtime-3.1.3\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\de1ecdf09cd08e544e9e451b409c9d67\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\de1ecdf09cd08e544e9e451b409c9d67\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\de1ecdf09cd08e544e9e451b409c9d67\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\de1ecdf09cd08e544e9e451b409c9d67\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\de1ecdf09cd08e544e9e451b409c9d67\transformed\transport-backend-cct-3.1.3\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\756c1d08c86902ca089620075c21cf66\transformed\transport-runtime-3.1.3\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\756c1d08c86902ca089620075c21cf66\transformed\transport-runtime-3.1.3\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\756c1d08c86902ca089620075c21cf66\transformed\transport-runtime-3.1.3\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\756c1d08c86902ca089620075c21cf66\transformed\transport-runtime-3.1.3\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\756c1d08c86902ca089620075c21cf66\transformed\transport-runtime-3.1.3\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\756c1d08c86902ca089620075c21cf66\transformed\transport-runtime-3.1.3\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] D:\Kuliah\Bangkit\apps\submission fundamental\Github_User\caches\transforms-3\756c1d08c86902ca089620075c21cf66\transformed\transport-runtime-3.1.3\AndroidManifest.xml:33:13-132
