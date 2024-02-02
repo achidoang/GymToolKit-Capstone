@@ -96,7 +96,7 @@ fun Navigator() {
         ) {
             composable(route = Route.HomeScreen.route) {
                 val viewModel: HomeViewModel = hiltViewModel()
-                val tools = viewModel.tools.collectAsLazyPagingItems()
+//                val tools = viewModel.tools.collectAsLazyPagingItems()
                 HomeScreen(
                     navigateToDetails = {
                         navigateToDetails(
